@@ -12,4 +12,4 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. The aim of this 
 
 *example :*
 
-![alt text](./sudoku2.png)
+![alt text](./example2.png)
