@@ -2,7 +2,9 @@
 
 
 # Irregular_sudoku
-This is a final work for the subject Knowledge Representation
+This is a final work for the subject Knowledge Representation.
+
+I choose to solve an irregular sudoku.
 
 ***What is a sudoku?***
 
@@ -10,4 +12,4 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. The aim of this 
 
 *example :*
 
-![alt text](./sudoku.jpg)
+![alt text](./sudoku2.png)
