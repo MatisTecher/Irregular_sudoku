@@ -20,5 +20,10 @@ I choosed to use "SWI-Prolog" which is a free Prolog environment and a logic pro
 
 ***reasoning of the code sudokuexam.pl***
 
+I took an example of irregular sudoku which is the one below:
+
+![alt text](./example2.png)
+
 First, I needed to use a library named clpfd by using the command ":- use_module(library(clpfd))" that will allow us to use the all_distinct command for example which is an important command in the case of the sudoku.
 
+The first thing to do is to create the sudoku grid with 9 rows and 9 columns 5 (We used the "lentgh" and the maplist command). Then we have to specify that the elements in the grid can only be between 1 and 9. 
