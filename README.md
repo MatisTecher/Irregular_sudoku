@@ -13,3 +13,7 @@ Sudoku is a logic-based, combinatorial number-placement puzzle. The aim of this 
 *example :*
 
 ![alt text](./example2.png)
+
+***How to solve this problem?***
+
+I choosed to use "SWI-Prolog" which is a free Prolog environment and a logic programming language associated with artificial intelligence and computational linguistics.
