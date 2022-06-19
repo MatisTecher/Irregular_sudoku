@@ -22,7 +22,7 @@ I choosed to use "SWI-Prolog" which is a free Prolog environment and a logic pro
 
 I took an example of irregular sudoku which is the one below:
 
-![alt text](./example2.png)
+![alt text](./irregular_sudoku_example.png)
 
 First, I needed to use a library named clpfd by using the command ":- use_module(library(clpfd))" that will allow us to use the all_distinct command for example which is an important command in the case of the sudoku.
 
