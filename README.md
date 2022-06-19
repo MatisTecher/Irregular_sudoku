@@ -31,3 +31,7 @@ The first thing to do is to create the sudoku grid with 9 rows and 9 columns 5 (
 Finally I recreated the irregular sudoku on prolog giving it the name "sudoku1". And to solve it you need to use the command below directly on SWI-Prolog:
 
 sudoku1(S), sudoku(S), maplist(label, S), maplist(portray_clause, S).
+
+that gives you this result:
+
+![alt text](./irregular_sudoku_solved.png)
